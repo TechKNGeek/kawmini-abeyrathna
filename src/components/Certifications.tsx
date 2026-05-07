@@ -2,7 +2,7 @@ import { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import Title from "./Title";
 
-import cert1 from "../assets/images/certificate/6.png";
+import cert1 from "../assets/images/certificate/5.png";
 import cert2 from "../assets/images/certificate/6.png";
 import cert3 from "../assets/images/certificate/7.png";
 import cert4 from "../assets/images/certificate/1.jpeg";
