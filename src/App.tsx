@@ -4,7 +4,7 @@ import ProjectDetails from "./components/ProjectDetails";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kawmini-abeyrathna">
       <main className="font-bodyFont w-full h-auto bg-bodyColor text-lightText">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -16,4 +16,3 @@ function App() {
 }
 
 export default App;
-
